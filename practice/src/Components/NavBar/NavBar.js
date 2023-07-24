@@ -1,4 +1,4 @@
-import My_Photo from "../Images/My_Photo.jpeg"
+import My_Photo from "./My_Photo.jpeg"
 import "./NavBar.css"
 import React from 'react'
 function Nav(){
